@@ -48,5 +48,5 @@ Sigo formandome en estos lenguajes e iniciandome en otros.
 ## **Mi información de contacto**
 [![LINKEDIN](https://img.shields.io/badge/Victor%20Villamar-%230A66C2?style=for-the-badge&logo=linkedin&label=LinkedIn&labelColor=101010
 )](https://www.linkedin.com/in/victor-villamar)
-[![MAIL](https://img.shields.io/badge/Victor%20Villamar-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Gmail&labelColor=101010
-)](mailto:victorjosevillamar@gmail.com)
+[![MAIL](https://img.shields.io/badge/Victor_Villamar-7E4DD2?style=for-the-badge&logo=ProtonMail&logoColor=white&label=ProtonMail&labelColor=101010
+)](mailto:victorvillamar@protonmail.com)
